@@ -1,6 +1,6 @@
 # MapGenerator
 
-##some examples
+## some examples
 ![ComplexWorld](/docs/img/demo/world01.png)
 ![ComplexWorld](/docs/img/demo/world02.png)
 ![OneColorMap](/docs/img/demo/OneColor.png)
