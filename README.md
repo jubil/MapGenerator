@@ -12,3 +12,9 @@
 ## Informations
 Algorithm : [Diamond-square algorithm](https://en.wikipedia.org/wiki/Diamond-square_algorithm)<br/>
 Max image size : 4097X4097px (2^12+1)
+
+
+## Upcoming features
+- Biomes
+- "Infinite" map size
+- Reduction of program execution time
